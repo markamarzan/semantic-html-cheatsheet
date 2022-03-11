@@ -1,0 +1,70 @@
+* {
+  background-color: beige;
+}
+
+header {
+  color: rgba(46, 46, 46, 0.83);
+}
+
+.introduction {
+  width: 600px;
+  margin: 0 auto;
+  padding-top: 30px;
+  padding-bottom: 10px;
+}
+
+.introduction p {
+  background-color: azure;
+  border-radius: 15px;
+}
+
+.cheatsheet {
+  width: 600px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: "Permanent Marker", Helvetica, sans-serif;
+  font-weight: 10;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+  letter-spacing: 3px;
+  font-family: "Roboto";
+  text-transform: uppercase;
+  color: rgba(46, 46, 46, 0.631);
+  font-weight: 6;
+  font-size: 16px;
+}
+
+p, td, th {
+  font-family: "Roboto";
+  letter-spacing: 1px;
+  font-size: 14px;
+  padding: 10px;
+  color:rgba(46, 46, 46, 0.631);
+}
+
+thead {
+  text-transform: uppercase;
+}
+
+.tags {
+  font-family: "Roboto Mono";
+  font-weight: normal;
+  letter-spacing: 0;
+  background-color: azure;
+  color: black;
+}
+
+.description {
+  background-color: antiquewhite;
+}
+
+aside {
+  text-align: center;
+}
